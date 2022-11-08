@@ -1,5 +1,5 @@
 {
-  "deploymentId" : "6f6074ee-624e-4f0b-b503-5e69da4e8f69",
+  "deploymentId" : "ffa6d94e-5bbc-4f4f-a379-b5ab622c8012",
   "isResourceDeleted" : false,
   "resourceMetadata" : {
     "arn" : "arn:aws:proton:eu-west-1:561821200142:environment/sample-vpc-environment-template",
